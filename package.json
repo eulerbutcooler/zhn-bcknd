@@ -1,0 +1,35 @@
+{
+  "name": "zhn-bcknd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eulerbutcooler/zhn-bcknd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eulerbutcooler/zhn-bcknd/issues"
+  },
+  "homepage": "https://github.com/eulerbutcooler/zhn-bcknd#readme",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/aiplatform": "^4.2.0",
+    "@google-cloud/vertexai": "^1.10.0",
+    "@google/genai": "^1.5.1",
+    "@types/cors": "^2.8.18",
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^5.0.2",
+    "@types/nodemailer": "^6.4.17",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.3",
+    "typescript": "^5.8.3",
+    "undici": "^7.10.0"
+  }
+}
