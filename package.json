@@ -25,6 +25,7 @@
     "@types/dotenv": "^6.1.1",
     "@types/express": "^5.0.2",
     "@types/nodemailer": "^6.4.17",
+    "axios": "^1.10.0",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
